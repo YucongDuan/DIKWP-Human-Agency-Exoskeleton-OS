@@ -1,5 +1,7 @@
 # DIKWP Human Agency Exoskeleton OS
 
+Created by Yucong Duan (段玉聪).
+
 A local-first research and product-design package for retaining human purpose, judgment, rights, relationships and future options in the agentic AI era.
 
 ## Quick start
